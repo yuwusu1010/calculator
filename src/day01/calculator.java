@@ -30,7 +30,6 @@ public class calculator {
                 System.out.println("pls only enter a number ");
                 sc.nextLine();
             }
-
         }
         sc.close();
         // do the calculation
